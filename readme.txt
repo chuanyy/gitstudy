@@ -6,3 +6,4 @@ Git creating a new branch is quick and simple.
 Git creating a new branch by switch.
 Git works by Fast Forward.
 Git works by --no-ff.
+Git stash test.
